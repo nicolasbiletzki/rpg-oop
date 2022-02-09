@@ -14,5 +14,10 @@ namespace CSharp___POO.src.Entities
         public int Level { get; set; }
         public string HeroType { get; set; }
 
+
+        public override string ToString(){
+            return this.Name + "" + this.Level + "" + this.HeroType;
+        }
+
     }
 }
