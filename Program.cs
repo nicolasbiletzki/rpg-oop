@@ -8,10 +8,14 @@ namespace CSharp___POO
         static void Main(string[] args)
         {
             Hero hero = new Hero("Arus", 24, "Knight");
+            Wizard wizard = new Wizard("Jenica", 23, "Wizard");
+            
          
 
-            Console.Write(hero);
-            System.Console.Write(hero.Attack());
+            Console.WriteLine(hero);
+            System.Console.WriteLine(hero.Attack());
+            System.Console.WriteLine(wizard);
+            System.Console.WriteLine(wizard.Attack(5));
         }
     }
 }
