@@ -1,4 +1,5 @@
 ﻿using System;
+using CSharp___POO.src.Entities;
 
 namespace CSharp___POO
 {
@@ -6,7 +7,11 @@ namespace CSharp___POO
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Hero hero = new Hero("Arus", 24, "Knight");
+         
+
+            Console.Write(hero);
+            System.Console.Write(hero.Attack());
         }
     }
 }
