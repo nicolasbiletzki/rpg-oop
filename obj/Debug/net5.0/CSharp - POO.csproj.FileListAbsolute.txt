@@ -1,0 +1,16 @@
+C:\Users\NOTE\source\vscode\CSharp - POO\bin\Debug\net5.0\CSharp - POO.exe
+C:\Users\NOTE\source\vscode\CSharp - POO\bin\Debug\net5.0\CSharp - POO.deps.json
+C:\Users\NOTE\source\vscode\CSharp - POO\bin\Debug\net5.0\CSharp - POO.runtimeconfig.json
+C:\Users\NOTE\source\vscode\CSharp - POO\bin\Debug\net5.0\CSharp - POO.runtimeconfig.dev.json
+C:\Users\NOTE\source\vscode\CSharp - POO\bin\Debug\net5.0\CSharp - POO.dll
+C:\Users\NOTE\source\vscode\CSharp - POO\bin\Debug\net5.0\ref\CSharp - POO.dll
+C:\Users\NOTE\source\vscode\CSharp - POO\bin\Debug\net5.0\CSharp - POO.pdb
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\CSharp - POO.csprojAssemblyReference.cache
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\CSharp - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\CSharp - POO.AssemblyInfoInputs.cache
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\CSharp - POO.AssemblyInfo.cs
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\CSharp - POO.csproj.CoreCompileInputs.cache
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\CSharp - POO.dll
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\ref\CSharp - POO.dll
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\CSharp - POO.pdb
+C:\Users\NOTE\source\vscode\CSharp - POO\obj\Debug\net5.0\CSharp - POO.genruntimeconfig.cache
